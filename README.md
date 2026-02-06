@@ -1,4 +1,4 @@
-
+﻿
 ## Information Security and Quality Assurance
 
 This repository contains information security and quality assurance certification projects.  
@@ -23,3 +23,4 @@ To run an individual project, after cloning the repository:
 
 1. navigate to it's folder e.g. `08-port-scanner`
 2. use **`python main.py`** command to run the application and the associated tests
+
